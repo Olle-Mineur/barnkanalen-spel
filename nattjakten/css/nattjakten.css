@@ -1,0 +1,13 @@
+#flashbackground {
+    background-image: url("../ram.png");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    height: 702px;
+    width: 1010px !important; 
+   
+}
+
+#Nattjakt {
+    margin-left:70px;
+    margin-top: 48px;
+}

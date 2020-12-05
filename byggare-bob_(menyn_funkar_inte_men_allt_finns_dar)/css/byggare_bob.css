@@ -1,0 +1,57 @@
+body {
+    margin:0px;
+    padding:0px;
+}
+
+#content {
+    padding: 20px;
+    background: #faa731 url("../img/bg_bob2.jpg");
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#flashbackground {
+    float: left;
+}
+
+.flashHeight {
+    height: 470px;
+}
+
+.startFlash {
+    margin-left: 50px !important;
+    height: 341px;
+}
+
+.menu {
+    float: right;
+    margin-bottom: 20px;
+}
+
+.logga {
+    float:left;
+}
+
+img {
+    border: none;
+}
+
+.clr {
+    clear: both;
+}
+
+.startImg {
+    margin-left:50px;
+    width: 470px;
+}
+
+.imgBob {
+    float: left;
+    
+    
+}
+
+.packer {
+    margin-left: 90px !important;
+}

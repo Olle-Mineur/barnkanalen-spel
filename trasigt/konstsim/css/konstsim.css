@@ -1,0 +1,12 @@
+#flashbackground {
+    background-image: url("../img/flash-bg.jpg");
+    background-repeat: no-repeat;
+    height: 603px;
+    width: 742px !important; 
+    margin: 0 auto;
+}
+
+#HajSpel {
+    margin-left: 51px;
+    margin-top: 39px;
+}
