@@ -6,4 +6,4 @@ A backup of the Swedish childrens televisions Flashgames
 * FrankoTheThird
 
 # Credits
-This is property of SVT. We are only trying to back everything up för the preservation to future generations.
+This is property of SVT. We are only trying to back everything up for the preservation to future generations.
