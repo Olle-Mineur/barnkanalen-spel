@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<scores>
+	<varv overalScoreMultplier="false">
+		<amount quantity="0">0</amount> 
+		<amount quantity="1">100</amount>
+		<amount quantity="2">300</amount>
+		<amount quantity="3">900</amount> 
+		<amount quantity="4">2700</amount> 
+		<amount quantity="5">3400</amount> 
+		<amount quantity="6">4000</amount> 
+	</varv>
+	
+	<specialtrick overalScoreMultplier="false">
+		
+		<amount quantity="0">0</amount> 
+		<amount quantity="1">90</amount>
+		<amount quantity="2">99</amount> 
+		<amount quantity="3">126</amount> 
+		<amount quantity="4">171</amount> 
+		<amount quantity="5">234</amount> 
+		<amount quantity="6">315</amount>
+		<amount quantity="7">414</amount> 
+		<amount quantity="8">666</amount> 
+		<amount quantity="9">819</amount>
+		<amount quantity="10">990</amount>
+		<amount quantity="11">1179</amount>
+		<amount quantity="12">1386</amount>
+		<amount quantity="13">1611</amount>
+		<amount quantity="14">1854</amount>
+		<amount quantity="15">2115</amount>
+		<amount quantity="16">2394</amount>
+		<amount quantity="17">2691</amount>
+		<amount quantity="18">3006</amount>
+		<amount quantity="19">3339</amount>
+		<amount quantity="20">3690</amount>
+		<amount quantity="21">4059</amount>
+		<amount quantity="22">4446</amount>
+		<amount quantity="23">4851</amount>
+		<amount quantity="24">5274</amount>
+		<amount quantity="25">5715</amount>
+		<amount quantity="26">6174</amount>
+		<amount quantity="27">6651</amount>
+		<amount quantity="28">7146</amount>
+		<amount quantity="29">7659</amount>
+		<amount quantity="30">8190</amount>
+		<amount quantity="31">8739</amount>
+		<amount quantity="32">9306</amount>
+		<amount quantity="33">9891</amount>
+		<amount quantity="34">10494</amount>
+		<amount quantity="35">11115</amount>
+		<amount quantity="36">11754</amount>
+		<amount quantity="37">12411</amount>
+		<amount quantity="38">13086</amount>
+		<amount quantity="39">13779</amount>
+		<amount quantity="40">14490</amount>
+		<amount quantity="41">14490</amount>
+		<amount quantity="42">14490</amount>
+		<amount quantity="43">14490</amount>
+		<amount quantity="44">14490</amount>
+		<amount quantity="45">14490</amount>
+		<amount quantity="46">14490</amount>
+		<amount quantity="47">14490</amount>
+		<amount quantity="48">14490</amount>
+		<amount quantity="49">14490</amount>
+		<amount quantity="50">14490</amount>
+		<amount quantity="51">14490</amount>
+		<amount quantity="52">14490</amount>
+		<amount quantity="53">14490</amount>
+		<amount quantity="54">14490</amount>
+		<amount quantity="55">14490</amount>
+		<amount quantity="56">14490</amount>
+		<amount quantity="57">14490</amount>
+		<amount quantity="58">14490</amount>
+		<amount quantity="59">14490</amount>
+		<amount quantity="60">14490</amount>
+
+	</specialtrick>
+	<heightmin overalScoreMultplier="false">50</heightmin> 
+	
+	<kompis overalScoreMultplier="true">
+		<amount quantity="0" >0</amount>
+		<amount quantity="1" >0</amount>
+		<amount quantity="2" >0</amount>
+		<amount quantity="3" >0</amount>
+	</kompis>
+	<consecutive overalScoreMultplier="false">
+		<amount quantity="0">0</amount> 
+		<amount quantity="1">0</amount>
+		<amount quantity="2">0</amount>
+		<amount quantity="4">0</amount> 
+		<amount quantity="5">0</amount> 
+		<amount quantity="6">0</amount> 
+		<amount quantity="7">0</amount> 
+		<amount quantity="8">0</amount> 
+		<amount quantity="9">0</amount> 
+		<amount quantity="10">0</amount>
+	</consecutive>	
+	<landing>
+		<amount type="bad"	>0</amount> 
+		<amount type="tailslide">0</amount> 
+		<amount type="bellyflop">0</amount> 
+		<amount type="good"	>1</amount> 
+		<amount type="perfect"	>2</amount> 
+	</landing>
+	<dykmedal>
+		<medal type="bronze">5</medal>
+		<medal type="silver">10</medal>
+		<medal type="guld">15</medal>
+	</dykmedal>
+	<trixmedal>
+		<medal type="bronze">6</medal>
+		<medal type="silver">12</medal>
+		<medal type="guld">18</medal>
+	</trixmedal>
+	<heightmedal>
+		<medal type="bronze">200</medal>
+		<medal type="silver">350</medal>
+		<medal type="guld">500</medal>
+	</heightmedal>
+	<varvmedal>
+		<medal type="bronze">3</medal>
+		<medal type="silver">5</medal>
+		<medal type="guld">6</medal>
+	</varvmedal>
+	<scoremedal>
+		<medal type="bronze">5000</medal>
+		<medal type="silver">50000</medal>
+		<medal type="guld">100000</medal>
+	</scoremedal>
+</scores>
