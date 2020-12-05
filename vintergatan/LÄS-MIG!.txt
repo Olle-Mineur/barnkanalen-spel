@@ -1,0 +1,5 @@
+Vilse i Vintergatan, arkiverat 2020-12-05.
+
+För att kunna köra det här spelet så behöver du hosta det som en web-server, det kan du enkelt göra med program som t.ex. 'Web Server for Chrome'.
+Mappen skall vara 'vintergatan', alltså den mapp som detta dokument ligger i och INTE den som ligger i mappen 'media.svt.se'.
+Sedan ansluter du helt enkelt till din lokala IP (borde stå i programmet) och sedan så bara fungerar det.
